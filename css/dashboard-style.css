@@ -1,0 +1,18 @@
+@charset "utf-8";
+.toplevel_page_wpss_settings{
+}
+.toplevel_page_wpss_settings .wp-menu-image{
+}
+.toplevel_page_wpss_settings .wp-menu-image img{
+	height:18px;
+}
+.toplevel_page_wpss_settings.current .wp-menu-image img {
+	background-color: #fff;
+	text-align: center;
+	padding: 2px !important;
+	position: relative;
+	top: 6px;
+}
+.toplevel_page_wpss_settings .wp-menu-name{
+	font-size:14px;
+}
